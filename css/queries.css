@@ -1,0 +1,373 @@
+@media only screen and (max-width: 375px) {
+  .navigation,
+  .main-sub,
+  .univ-logo,
+  .upcoming,
+  .res-hide,
+  .data,
+  .or {
+    display: none;
+  }
+  .temppp,
+  .container-1 {
+    padding: 24px 15px 24px 16px;
+  }
+  .main-1,
+  .main_2 {
+    padding: 24px 15px 4px 16px;
+  }
+  .map-header {
+    padding-top: 0;
+  }
+  .maps-section,
+  .similiar-courses-section {
+    padding-bottom: 18px;
+  }
+  .main_1 {
+    padding: 16px 15px 24px 16px;
+  }
+  .temp,
+  .course-header,
+  .tab-list,
+  .tab-each,
+  .tabs {
+    flex-direction: column;
+  }
+  .header {
+    justify-content: space-between;
+    gap: 19px;
+    padding: 15px 0px 5px 15px;
+    display: flex;
+  }
+  .search-bar-mobile {
+    display: unset;
+  }
+
+  .header-img {
+    border: none;
+    padding: 0;
+  }
+  .header {
+    border-bottom: 1px solid rgba(112, 112, 112, 0.2);
+  }
+  .sign-in {
+    gap: 13px;
+    align-items: center;
+  }
+  .tab-li {
+    padding: unset;
+  }
+  .res-btn-1,
+  .last {
+    width: 100%;
+  }
+  .course-header,
+  .tab-list {
+    align-items: flex-start;
+  }
+  .tab-list {
+    gap: 8px;
+    border: none;
+  }
+
+  .rate-para {
+    margin-bottom: 8px;
+  }
+  .data-grid,
+  .graphs,
+  .politics-grid,
+  .animation-grid {
+    grid-template-columns: 1fr;
+  }
+  .anchor {
+    padding: unset;
+    color: var(--Secondary-500, #3460dc);
+    text-decoration-line: underline;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+
+  }
+  .compare-1 {
+    display: unset;
+    display: flex;
+    margin-bottom: 8px;
+   
+  }
+  .temp {
+    gap: 0;
+  }
+  .compare-desktop {
+    display: none;
+  }
+  .active_li {
+    border: none;
+  }
+  .graphs,
+  .data-grid {
+    gap: 24px;
+  }
+  .animation-grid {
+    gap: 16px;
+  }
+  .tab-ul {
+    padding: 0 16px;
+  }
+
+  .key-stats {
+    padding: 16px;
+  }
+  .grids {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+  }
+  .icon-top {
+    margin: 0;
+  }
+  .key-stats {
+    margin-top: 0;
+  }
+  .course-header {
+    margin-bottom: 24px;
+  }
+  .tabs1 {
+    padding-top: 74px;
+  }
+  .res-flex {
+    display: flex;
+  }
+
+  .graph-1 {
+    flex-direction: row;
+    margin-bottom: 0;
+    gap: 16px;
+  }
+  .res-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .animation,
+  .average-salary {
+    margin-top: 24px;
+    margin-bottom: 16px;
+  }
+  .animation-grid-1 {
+    gap: 0;
+    margin-bottom: 0;
+  }
+  .euro {
+    margin-top: 4px;
+    margin-bottom: 16px;
+  }
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    overflow: scroll;
+    padding-bottom: 16px;
+    margin-bottom: 16px;
+  }
+  .card-1 {
+    width: 300px;
+    height: auto;
+  }
+  .tabs {
+    padding-bottom: 0;
+  }
+  /* entry req */
+  .entry-header {
+    padding-top: 8px;
+  }
+  /* gradient */
+  .gradient-header,
+  .mapss {
+    flex-direction: column;
+  }
+  .grad-main {
+    padding: 0;
+  }
+  .right-tab-4 {
+    padding: 24px 19px 24px 20px;
+  }
+  .animation-dropdown,
+  .review-button {
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .review-box {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    overflow: scroll;
+    padding-bottom: 16px;
+  }
+  .review-box-1 {
+    width: 317.5px;
+    height: auto;
+  }
+  .review-header {
+    padding-bottom: 24px;
+  }
+  .review-breakdown {
+    margin-top: 24px;
+    padding-bottom: 16px;
+  }
+  .review-breakdown-header {
+    margin-bottom: 16px;
+  }
+  .students-rating {
+    display: block;
+  }
+  .search-review {
+    padding-top: 24px;
+  }
+  .each-rating {
+    justify-content: unset;
+  }
+  .rating-header {
+    margin-bottom: 8px;
+  }
+  .search-flex,
+  .stats-flex,
+  .course-form {
+    flex-direction: column;
+  }
+  .stats-flex {
+    align-items: flex-start;
+    gap: 16px;
+  }
+  .rating-list {
+    margin-bottom: 16px;
+  }
+  .students-img {
+    width: 343px;
+    height: 185.146px;
+  }
+  .uni-info-div,
+  .uni-cards,
+  .footer-end {
+    grid-template-columns: 1fr;
+  }
+  .year-2 {
+    margin-top: 16px;
+  }
+  .uni-info-img-right {
+    padding: 0 16px 16px 16px;
+  }
+  .course-form-input {
+    width: auto;
+  }
+
+  .footer-content-box {
+    width: 350px;
+  }
+  .map {
+    width: 100%;
+  }
+  .final {
+    padding-bottom: 40px;
+  }
+  .footer-end,.footer {
+    padding: 0;
+  }
+ 
+  .footer-form input {
+    width: 350px;
+  }
+  .search-div,
+  .review-button-2,.para1 {
+    width: 100%;
+  }
+  .h3 {
+    margin-top: 34px;
+  }
+  .copyright {
+    grid-column: 1 / -1;
+  }
+  .footer-end,
+  .copy-div {
+    padding: 24px 0 24px 16px;
+  }
+  .copy-div {
+    padding: 0 0 100px 16px;
+  }
+  .footer-end {
+    gap: 26px;
+  }
+  .enjoy-button-div {
+    justify-content: normal;
+    gap: 8px;
+  }
+  .search-flex {
+    align-items: normal;
+  }
+  .review-button-2 {
+    border: 1px solid #fff;
+    background: #fff;
+    width: 332px;
+    padding: 15px 24.52px 14px 24px;
+    justify-content: space-between;
+    margin-top: 16px;
+  }
+  .show,.show-mob {
+    display: block;
+  }
+  .show-desk {
+    display: none;
+  }
+  .header-img {
+    gap: 19px;
+    justify-content: flex-end;
+  }
+  .btn-mobile-nav {
+    display: inline-block;
+    z-index: 1000;
+  }
+  .main-nav {
+    background-color: rgba(255, 255, 255, 0.945);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.5s ease-in;
+    transform: translateX(-100%);
+    opacity: 0;
+    pointer-events: none;
+    visibility: hidden;
+  
+  }
+  .main-nav-list {
+    flex-direction: column;
+    gap: 28px;
+  }
+  .nav-open .main-nav {
+    opacity: 1;
+    pointer-events: auto;
+    visibility: visible;
+    transform: translateX(0);
+  }
+  .main-nav-link {
+    font-size: 18px;
+  }
+  .search-two {
+    right: 16px;
+    padding: 16px;
+  }
+  .view {
+    margin-left: 8px;
+  }
+  .search-input {
+    width: 100%;
+    border: 2px solid #e2e2e2;
+    background: #fff;
+  }
+  .search-bar-mobile {
+    z-index: -1;
+  }
+}
